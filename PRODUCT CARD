@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product</title>
+</head>
+<body>
+    <h2>Smart Watch</h2>
+    <p>Price: ₹1299</p>
+    <button>Buy Now</button>
+</body>
+</html>

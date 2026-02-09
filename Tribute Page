@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tribute Page</title>
+</head>
+<body>
+
+<h1>Swami Vivekananda</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Swami_Vivekananda_1893.jpg" width="300">
+
+<p>
+  Swami Vivekananda was a spiritual leader who inspired millions
+  through his teachings on strength and self-belief.
+</p>
+
+</body>
+</html>

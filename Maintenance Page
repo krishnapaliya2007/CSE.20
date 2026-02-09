@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Maintenance</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #222;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+<div>
+  <h1>We'll Be Back Soon</h1>
+  <p>Our website is under maintenance.</p>
+</div>
+
+</body>
+</html>

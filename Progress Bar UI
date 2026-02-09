@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Progress Bar</title>
+  <style>
+    body {
+      font-family: Arial;
+      padding: 50px;
+    }
+    .bar {
+      width: 300px;
+      background: #ddd;
+      border-radius: 20px;
+    }
+    .fill {
+      width: 70%;
+      background: #28a745;
+      padding: 10px;
+      border-radius: 20px;
+      color: white;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Course Progress</h2>
+<div class="bar">
+  <div class="fill">70%</div>
+</div>
+
+</body>
+</html>

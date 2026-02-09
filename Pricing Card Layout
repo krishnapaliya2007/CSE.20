@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pricing Card</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #f2f2f2;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .card {
+      background: white;
+      padding: 25px;
+      width: 280px;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .price {
+      font-size: 36px;
+      color: #007bff;
+    }
+    button {
+      margin-top: 15px;
+      padding: 10px;
+      width: 100%;
+      border: none;
+      background: #007bff;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card">
+  <h2>Basic Plan</h2>
+  <p class="price">₹499</p>
+  <p>✔ 10 Projects</p>
+  <p>✔ Email Support</p>
+  <button>Buy Now</button>
+</div>
+
+</body>
+</html>

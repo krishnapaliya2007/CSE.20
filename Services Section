@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Services</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #f4f4f4;
+      padding: 40px;
+    }
+    .service {
+      background: white;
+      padding: 20px;
+      margin-bottom: 15px;
+      border-left: 4px solid #007bff;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Our Services</h1>
+
+<div class="service">Web Development</div>
+<div class="service">App Development</div>
+<div class="service">SEO Optimization</div>
+
+</body>
+</html>

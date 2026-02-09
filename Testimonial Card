@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Testimonial</title>
+  <style>
+    body {
+      background: #ddd;
+      font-family: Arial;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .testimonial {
+      background: white;
+      padding: 25px;
+      width: 300px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="testimonial">
+  <p>"This platform helped me learn web development easily."</p>
+  <h4>- Student</h4>
+</div>
+
+</body>
+</html>

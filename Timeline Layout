@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Timeline</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #f9f9f9;
+      padding: 40px;
+    }
+    .event {
+      background: white;
+      padding: 15px;
+      margin-bottom: 10px;
+      border-left: 5px solid #007bff;
+    }
+  </style>
+</head>
+<body>
+
+<h1>My Learning Journey</h1>
+
+<div class="event">2024 – Started HTML</div>
+<div class="event">2025 – Learned CSS</div>
+<div class="event">2026 – Exploring JavaScript</div>
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial;
+      display: flex;
+    }
+    .sidebar {
+      width: 200px;
+      background: #333;
+      color: white;
+      height: 100vh;
+      padding: 20px;
+    }
+    .main {
+      flex: 1;
+      padding: 20px;
+      background: #f4f4f4;
+    }
+    .box {
+      background: white;
+      padding: 20px;
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="sidebar">
+  <h3>Dashboard</h3>
+  <p>Home</p>
+  <p>Profile</p>
+  <p>Settings</p>
+</div>
+
+<div class="main">
+  <div class="box">Total Users: 120</div>
+  <div class="box">Revenue: ₹50,000</div>
+  <div class="box">Orders: 85</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Blog</title>
+</head>
+<body>
+
+<header>
+  <h1>Krishna's Blog</h1>
+</header>
+
+<article>
+  <h2>My Coding Journey</h2>
+  <p>
+    I started learning programming to build real-world solutions
+    and improve my problem-solving skills.
+  </p>
+</article>
+
+<footer>
+  <p>Written with ❤️</p>
+</footer>
+
+</body>
+</html>

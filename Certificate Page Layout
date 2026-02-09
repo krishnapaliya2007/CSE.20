@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Certificate</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #f0f0f0;
+      font-family: Georgia;
+    }
+    .certificate {
+      background: white;
+      padding: 40px;
+      border: 5px solid #000;
+      text-align: center;
+      width: 500px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="certificate">
+  <h1>Certificate of Completion</h1>
+  <p>This is to certify that</p>
+  <h2>Krishna Paliya</h2>
+  <p>has successfully completed HTML Basics</p>
+</div>
+
+</body>
+</html>

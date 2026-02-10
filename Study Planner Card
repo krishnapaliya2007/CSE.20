@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Study Planner</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: lightgray;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .planner {
+      background: white;
+      padding: 20px;
+      width: 280px;
+      border-radius: 8px;
+      border-left: 6px solid steelblue;
+    }
+  </style>
+</head>
+<body>
+
+<div class="planner">
+  <h2>Today's Plan</h2>
+  <p>✔ Morning Walk</p>
+  <p>✔ HTML Practice</p>
+  <p>✔ Revision</p>
+</div>
+
+</body>
+</html>

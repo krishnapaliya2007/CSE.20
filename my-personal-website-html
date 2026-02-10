@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Personal Website</title>
+
+  <style>
+    /* basic page styling */
+    body {
+      margin: 0;
+      font-family: Arial;
+      background: whitesmoke;
+    }
+
+    /* top header */
+    header {
+      background: steelblue;
+      color: white;
+      padding: 25px;
+      text-align: center;
+    }
+
+    /* navigation bar */
+    nav {
+      background: lightsteelblue;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: navy;
+      margin: 0 12px;
+    }
+
+    /* common section style */
+    section {
+      background: white;
+      margin: 15px;
+      padding: 20px;
+      border-radius: 6px;
+    }
+
+    h2 {
+      color: darkblue;
+    }
+
+    ul {
+      line-height: 1.7;
+    }
+
+    footer {
+      background: gray;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Krishna Paliya</h1>
+    <p>Computer Science Student</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">About Me</a>
+    <a href="#">Skills</a>
+    <a href="#">Routine</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      My name is Krishna and I am a computer science student.
+      I am currently learning web development basics like HTML and CSS.
+      This website is made as a practice project to understand how
+      a real website is structured.
+    </p>
+
+    <p>
+      I am focusing more on learning step by step instead of rushing.
+      Right now my main goal is to build strong fundamentals.
+    </p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML – page structure and tags</li>
+      <li>CSS – basic styling using internal CSS</li>
+      <li>Python – beginner level</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>My Daily Routine</h2>
+    <ul>
+      <li>Wake up early and go for a walk</li>
+      <li>Study college subjects</li>
+      <li>Practice HTML and CSS</li>
+      <li>Revise what I studied</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Why I Made This Website</h2>
+    <p>
+      I made this website to practice HTML and internal CSS.
+      I did not use any framework or external CSS file.
+      This project helped me understand sections, navigation
+      and basic page layout.
+    </p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: krishna@email.com</p>
+    <p>Country: India</p>
+  </section>
+
+  <footer>
+    This website is created as a learning project using HTML only.
+  </footer>
+
+</body>
+</html>

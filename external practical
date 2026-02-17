@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hotel Room Booking Form</title>
+<style>
+body {background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            color: #333;}
+h1 {text-align: center;
+            color: darkblue;}
+form {background-color: white4;
+            width: 400px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;}
+input, select, textarea {
+            width: 100%;
+            padding: 5px;}
+input[type="submit"] {
+            background-color: green;
+            color: white;}
+input[type="reset"] {
+            background-color: red;
+            color: white;}
+</style>
+</head>
+<body>
+<h1>Hotel Room Booking Form</h1>
+<form action="#" method="post">
+<label for="fullname">Full Name:</label>
+<input type="text" id="fullname" name="fullname" required>
+<br><br>
+<label for="email">Email:</label>
+<input type="email" id="email" name="email" required>
+<br><br>
+<label for="phone">Phone:</label>
+<input type="tel" id="phone" name="phone" required>
+<br><br>
+<label for="checkin">Check-in Date:</label>
+<input type="date" id="checkin" name="checkin">
+<br><br>
+<label for="checkout">Check-out Date:</label>
+<input type="date" id="checkout" name="checkout">
+<br><br>
+<label for="room">Room Type:</label>
+<select id="room" name="room">
+<option value="single">Single Room</option>
+<option value="double">Double Room</option>
+</select>
+<br><br>
+<label for="requests">Special Requests:</label>
+<br>
+<textarea id="requests" name="requests" rows="4"></textarea>
+<br><br>
+<input type="submit" value="Book Now">
+<input type="reset" value="Reset Form">
+</form>
+</body>
+</html>
